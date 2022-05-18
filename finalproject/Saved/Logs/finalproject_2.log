@@ -1,0 +1,1499 @@
+﻿Log file open, 05/18/22 01:50:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: finalproject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.064337
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin SunPosition
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 4900HS with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.18-01.50.23:011][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.05.18-01.50.23:011][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Engine.ini]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Engine.ini]
+[2022.05.18-01.50.23:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Engine.ini]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Engine.ini]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.18-01.50.23:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Engine.ini]
+[2022.05.18-01.50.23:012][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Engine.ini]
+[2022.05.18-01.50.23:013][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.18-01.50.23:013][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.05.18-01.50.23:014][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.05.18-01.50.23:014][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.18-01.50.23:014][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.18-01.50.23:017][  0]LogHAL: Display: Platform has ~ 32 GB [33736458240 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.18-01.50.23:017][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.18-01.50.23:017][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.18-01.50.23:017][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Scalability.ini]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.05.18-01.50.23:018][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.18-01.50.23:019][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.18-01.50.23:019][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.18-01.50.23:019][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Config/Windows/Engine.ini]
+[2022.05.18-01.50.23:019][  0]LogInit: Computer: ROG-G14
+[2022.05.18-01.50.23:019][  0]LogInit: User: vgane
+[2022.05.18-01.50.23:019][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.05.18-01.50.23:019][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.18-01.50.23:019][  0]LogMemory: Memory total: Physical=31.4GB (32GB approx)
+[2022.05.18-01.50.23:019][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.18-01.50.23:019][  0]LogMemory: Process Physical Memory: 111.34 MB used, 111.34 MB peak
+[2022.05.18-01.50.23:019][  0]LogMemory: Process Virtual Memory: 107.23 MB used, 107.23 MB peak
+[2022.05.18-01.50.23:019][  0]LogMemory: Physical Memory: 9378.09 MB used,  22795.50 MB free, 32173.59 MB total
+[2022.05.18-01.50.23:019][  0]LogMemory: Virtual Memory: 5230.45 MB used,  134212496.00 MB free, 134217728.00 MB total
+[2022.05.18-01.50.23:021][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.18-01.50.23:046][  0]LogInit: Using OS detected language (en-US).
+[2022.05.18-01.50.23:046][  0]LogInit: Using OS detected locale (en-IN).
+[2022.05.18-01.50.23:047][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.05.18-01.50.23:183][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.18-01.50.23:213][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.18-01.50.23:213][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.18-01.50.30:479][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.05.18-01.50.30:479][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.18-01.50.30:479][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.05.18-01.50.30:479][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.18-01.50.30:571][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (Feature Level 11_0)
+[2022.05.18-01.50.30:571][  0]LogD3D11RHI:       5980/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.05.18-01.50.30:609][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2022.05.18-01.50.30:609][  0]LogD3D11RHI:       495/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.05.18-01.50.30:611][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.18-01.50.30:611][  0]LogD3D11RHI:       0/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.18-01.50.30:611][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.05.18-01.50.30:618][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.18-01.50.30:618][  0]LogD3D11RHI:     GPU DeviceId: 0x1f12 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.18-01.50.30:618][  0]LogWindows: EnumDisplayDevices:
+[2022.05.18-01.50.30:618][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2022.05.18-01.50.30:619][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.05.18-01.50.30:619][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.05.18-01.50.30:619][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0)
+[2022.05.18-01.50.30:619][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0)
+[2022.05.18-01.50.30:619][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0)
+[2022.05.18-01.50.30:619][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0)
+[2022.05.18-01.50.30:620][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.05.18-01.50.30:620][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 with Max-Q Design
+[2022.05.18-01.50.30:620][  0]LogD3D11RHI:   Driver Version: 512.77 (internal:30.0.15.1277, unified:512.77)
+[2022.05.18-01.50.30:620][  0]LogD3D11RHI:      Driver Date: 5-4-2022
+[2022.05.18-01.50.30:620][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2022.05.18-01.50.30:666][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.18-01.50.30:666][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.18-01.50.30:690][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.05.18-01.50.30:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.18-01.50.30:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.18-01.50.30:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.18-01.50.30:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.18-01.50.30:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.05.18-01.50.30:978][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.18-01.50.30:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.18-01.50.30:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.05.18-01.50.30:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.05.18-01.50.31:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.05.18-01.50.31:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.05.18-01.50.31:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.05.18-01.50.31:048][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.18-01.50.31:048][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.18-01.50.31:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.18-01.50.31:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.18-01.50.31:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.18-01.50.31:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.18-01.50.31:077][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.18-01.50.31:080][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.18-01.50.31:097][  0]LogShaderCompilers: Guid format shader working directory is -56 characters bigger than the processId version (D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Intermediate/Shaders/WorkingDirectory/19224/).
+[2022.05.18-01.50.31:097][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vgane/AppData/Local/Temp/UnrealShaderWorkingDir/2B093A1046063514A6DC55A375C6DEAB/'.
+[2022.05.18-01.50.31:097][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.18-01.50.31:097][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.18-01.50.31:097][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.18-01.50.31:660][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.18-01.50.31:701][  0]LogDerivedDataCache: Loaded boot cache 0.04s 81MB C:/Users/vgane/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.05.18-01.50.31:701][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vgane/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2022.05.18-01.50.31:701][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.18-01.50.31:701][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.18-01.50.31:701][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.18-01.50.31:701][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.18-01.50.31:711][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.18-01.50.31:711][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.18-01.50.31:711][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.18-01.50.31:713][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vgane/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.18-01.50.31:713][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.18-01.50.31:713][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.18-01.50.31:735][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.05.18-01.50.31:737][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.18-01.50.31:738][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.18-01.50.31:776][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2022.05.18-01.50.32:042][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.18-01.50.32:167][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.18-01.50.32:168][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.18-01.50.32:168][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.18-01.50.32:168][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.18-01.50.32:168][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.18-01.50.32:179][  0]LogNetVersion: finalproject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3229368434)
+[2022.05.18-01.50.33:011][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.037524 seconds
+[2022.05.18-01.50.33:019][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2022.05.18-01.50.33:019][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2022.05.18-01.50.33:019][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.18-01.50.33:362][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.18-01.50.33:366][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.18-01.50.33:412][  0]SourceControl: Source control is disabled
+[2022.05.18-01.50.33:412][  0]SourceControl: Source control is disabled
+[2022.05.18-01.50.33:413][  0]SourceControl: Source control is disabled
+[2022.05.18-01.50.33:414][  0]SourceControl: Source control is disabled
+[2022.05.18-01.50.33:415][  0]SourceControl: Source control is disabled
+[2022.05.18-01.50.33:489][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.18-01.50.33:500][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.18-01.50.33:500][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.18-01.50.33:574][  0]LogOcInput: OculusInput pre-init called
+[2022.05.18-01.50.34:039][  0]LogEngine: Initializing Engine...
+[2022.05.18-01.50.34:096][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.05.18-01.50.34:097][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.18-01.50.34:366][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.18-01.50.34:371][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.18-01.50.34:382][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-01.50.34:382][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-01.50.34:382][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-01.50.34:382][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-01.50.34:382][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-01.50.34:382][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-01.50.34:382][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-01.50.34:382][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-01.50.34:383][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.18-01.50.34:383][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-01.50.34:395][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.05.18-01.50.34:395][  0]LogAudioMixer: Display: Name: 1 - VG279 (AMD High Definition Audio Device)
+[2022.05.18-01.50.34:395][  0]LogAudioMixer: Display: Is Default: Yes
+[2022.05.18-01.50.34:395][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2022.05.18-01.50.34:395][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2022.05.18-01.50.34:395][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2022.05.18-01.50.34:395][  0]LogAudioMixer: Display: Channel Order:
+[2022.05.18-01.50.34:395][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-01.50.34:395][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-01.50.34:415][  0]LogAudioMixer: Display: Using Audio Device 1 - VG279 (AMD High Definition Audio Device)
+[2022.05.18-01.50.34:417][  0]LogInit: FAudioDevice initialized.
+[2022.05.18-01.50.34:417][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.18-01.50.34:463][  0]LogDerivedDataCache: Saved boot cache 0.05s 81MB C:/Users/vgane/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.05.18-01.50.34:463][  0]LogInit: Texture streaming: Enabled
+[2022.05.18-01.50.34:472][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.18-01.50.34:472][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.05.18-01.50.34:472][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.05.18-01.50.34:497][  0]LogInit: Transaction tracking system initialized
+[2022.05.18-01.50.34:505][  0]BlueprintLog: New page: Editor Load
+[2022.05.18-01.50.34:531][  0]LocalizationService: Localization service is disabled
+[2022.05.18-01.50.34:761][  0]LogFileCache: Scanning file cache for directory 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/' took 0.00s
+[2022.05.18-01.50.34:761][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.05.18-01.50.34:761][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.18-01.50.35:355][  0]SourceControl: Source control is disabled
+[2022.05.18-01.50.35:355][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-01.50.35:355][  0]LightingResults: New page: Lighting Build
+[2022.05.18-01.50.35:356][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-01.50.35:356][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-01.50.35:356][  0]MapCheck: New page: Map Check
+[2022.05.18-01.50.35:356][  0]LightingResults: New page: Lighting Build
+[2022.05.18-01.50.35:381][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.05.18-01.50.35:390][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.05.18-01.50.35:393][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-01.50.35:415][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.05.18-01.50.35:415][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-01.50.35:415][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2022.05.18-01.50.35:415][  0]LogFileHelpers: Loading map 'Template_Default' took 0.060
+[2022.05.18-01.50.35:541][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-01.50.35:547][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-01.50.35:552][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-01.50.35:558][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-01.50.35:562][  0]LogCollectionManager: Loaded 0 collections in 0.001378 seconds
+[2022.05.18-01.50.35:573][  0]LogFileCache: Scanning file cache for directory 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/Collections/' took 0.00s
+[2022.05.18-01.50.35:573][  0]LogFileCache: Scanning file cache for directory 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/Developers/vgane/Collections/' took 0.00s
+[2022.05.18-01.50.35:573][  0]LogFileCache: Scanning file cache for directory 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/Collections/' took 0.00s
+[2022.05.18-01.50.35:573][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 3016 classes and 720 folders.
+[2022.05.18-01.50.35:576][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.05.18-01.50.35:611][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.05.18-01.50.35:614][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2022.05.18-01.50.35:734][  0]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.18-01.50.35:736][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.18-01.50.35:740][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.18-01.50.35:797][  0]LogRenderer: Reallocating scene render targets to support 1244x568 Format 10 NumSamples 1 (Frame:1).
+[2022.05.18-01.50.35:894][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.05.18-01.50.35:894][  0]LogLoad: (Engine Initialization) Total time: 14.44 seconds
+[2022.05.18-01.50.35:894][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.18-01.50.35:943][  0]LogAssetRegistry: Asset discovery search completed in 4.1681 seconds
+[2022.05.18-01.50.35:946][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2022.05.18-01.50.35:947][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.18-01.50.35:965][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.18-01.50.53:319][524]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.05.18-01.51.30:701][ 92]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.18-01.51.30:717][ 92]LogAssetEditorSubsystem: Opening Asset editor for World /Game/NewWorld.NewWorld
+[2022.05.18-01.51.30:739][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.05.18-01.51.33:010][ 92]LogSlate: Window 'Save Content' being destroyed
+[2022.05.18-01.51.33:046][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.05.18-01.51.33:050][ 92]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/NewWorldA0589F184572709DA957BB9FDFAFCCB6.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/NewWorld.umap'
+[2022.05.18-01.51.33:050][ 92]LogFileHelpers: Saving map 'NewWorld' took 0.027
+[2022.05.18-01.51.33:051][ 92]Cmd: MAP LOAD FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-01.51.33:052][ 92]LightingResults: New page: Lighting Build
+[2022.05.18-01.51.33:052][ 92]LoadErrors: New page: Loading map: NewWorld.umap
+[2022.05.18-01.51.33:052][ 92]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-01.51.33:052][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-01.51.33:052][ 92]MapCheck: New page: Map Check
+[2022.05.18-01.51.33:052][ 92]LightingResults: New page: Lighting Build
+[2022.05.18-01.51.33:076][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.05.18-01.51.33:077][ 92]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-01.51.33:077][ 92]LogAIModule: Creating AISystem for world NewWorld
+[2022.05.18-01.51.33:101][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.05.18-01.51.33:110][ 92]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-01.51.33:110][ 92]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.056ms to complete.
+[2022.05.18-01.51.33:110][ 92]LogFileHelpers: Loading map 'NewWorld' took 0.059
+[2022.05.18-01.51.33:143][ 92]AssetCheck: New page: Asset Save: NewWorld
+[2022.05.18-01.51.33:143][ 92]LogContentValidation: Display: Validating World /Game/NewWorld.NewWorld
+[2022.05.18-01.51.42:733][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.05.18-01.51.42:736][662]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/level37873C5340D0B06BE7DD93928B80540D.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/level.umap'
+[2022.05.18-01.51.42:747][662]LogFileHelpers: Saving map 'level' took 0.036
+[2022.05.18-01.51.42:878][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-01.51.42:907][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.05.18-01.51.42:928][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.18-01.51.42:948][662]AssetCheck: New page: Asset Save: level
+[2022.05.18-01.51.42:948][662]LogContentValidation: Display: Validating World /Game/level.level
+[2022.05.18-01.52.43:807][905]LogSlate: Took 0.004193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.18-01.53.46:399][296]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2022.05.18-01.53.54:471][777]LogSlate: Window 'Levels' being destroyed
+[2022.05.18-01.55.06:103][648]LogSlate: Window 'New Level' being destroyed
+[2022.05.18-01.55.12:087][648]LogSlate: Window 'Save Level As' being destroyed
+[2022.05.18-01.55.12:148][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.05.18-01.55.12:150][648]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/level110E0FF82499D6E083129BDB47BBDB29D.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/level1.umap'
+[2022.05.18-01.55.12:159][648]LogFileHelpers: Saving map 'level1' took 0.064
+[2022.05.18-01.55.12:196][648]AssetCheck: New page: Asset Save: level1
+[2022.05.18-01.55.12:196][648]LogContentValidation: Display: Validating World /Game/map/level1.level1
+[2022.05.18-01.55.34:401][711]LogObjectTools: Deleting 1 worlds: /Game/map/level1.level1
+[2022.05.18-01.55.34:401][711]LogObjectTools: Currently 2 active worlds: /Game/level.level, /Game/map/level1.level1
+[2022.05.18-01.55.36:490][711]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.05.18-01.55.40:124][929]LogObjectTools: Deleting 1 worlds: /Game/map/level1.level1
+[2022.05.18-01.55.40:124][929]LogObjectTools: Currently 2 active worlds: /Game/level.level, /Game/map/level1.level1
+[2022.05.18-01.55.42:756][929]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.05.18-01.55.46:622][159]LogAssetEditorSubsystem: Opening Asset editor for World /Game/level.level
+[2022.05.18-01.55.46:643][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.18-01.55.48:542][159]LogSlate: Window 'Save Content' being destroyed
+[2022.05.18-01.55.48:585][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-01.55.48:589][159]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/level97F2E2324FFDFE4087D47283C04358D1.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/level.umap'
+[2022.05.18-01.55.48:598][159]LogFileHelpers: Saving map 'level' took 0.035
+[2022.05.18-01.55.48:599][159]Cmd: MAP LOAD FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-01.55.48:599][159]LightingResults: New page: Lighting Build
+[2022.05.18-01.55.48:600][159]LoadErrors: New page: Loading map: level.umap
+[2022.05.18-01.55.48:600][159]LogWorld: UWorld::CleanupWorld for level, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-01.55.48:600][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-01.55.48:600][159]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-01.55.48:600][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-01.55.48:601][159]MapCheck: New page: Map Check
+[2022.05.18-01.55.48:601][159]LightingResults: New page: Lighting Build
+[2022.05.18-01.55.48:625][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.05.18-01.55.48:627][159]LogAIModule: Creating AISystem for world level
+[2022.05.18-01.55.48:629][159]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/map/level1) is flushing async loading
+[2022.05.18-01.55.48:629][159]LogStreaming: Display: Flushing async loaders.
+[2022.05.18-01.55.48:631][159]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-01.55.48:656][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.05.18-01.55.48:665][159]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-01.55.48:666][159]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.165ms to complete.
+[2022.05.18-01.55.48:666][159]LogFileHelpers: Loading map 'level' took 0.067
+[2022.05.18-01.55.48:701][159]AssetCheck: New page: Asset Save: level
+[2022.05.18-01.55.48:701][159]LogContentValidation: Display: Validating World /Game/level.level
+[2022.05.18-01.55.48:722][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-01.55.52:502][385]LogObjectTools: Deleting 1 worlds: /Game/map/level1.level1
+[2022.05.18-01.55.52:502][385]LogObjectTools: Currently 2 active worlds: /Game/level.level, /Game/map/level1.level1
+[2022.05.18-01.55.54:944][385]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.05.18-01.55.56:403][470]LogAIModule: Creating AISystem for world workingmap
+[2022.05.18-01.55.56:405][470]LogAssetEditorSubsystem: Opening Asset editor for World /Game/map/workingmap.workingmap
+[2022.05.18-01.55.56:428][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.05.18-01.55.56:429][470]Cmd: MAP LOAD FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-01.55.56:429][470]LightingResults: New page: Lighting Build
+[2022.05.18-01.55.56:430][470]LoadErrors: New page: Loading map: workingmap.umap
+[2022.05.18-01.55.56:430][470]LogWorld: UWorld::CleanupWorld for level, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-01.55.56:430][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-01.55.56:430][470]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-01.55.56:430][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-01.55.56:431][470]MapCheck: New page: Map Check
+[2022.05.18-01.55.56:431][470]LightingResults: New page: Lighting Build
+[2022.05.18-01.55.56:454][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.05.18-01.55.56:457][470]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-01.55.56:482][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.05.18-01.55.56:491][470]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-01.55.56:491][470]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.056ms to complete.
+[2022.05.18-01.55.56:491][470]LogFileHelpers: Loading map 'workingmap' took 0.063
+[2022.05.18-01.55.56:530][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-01.55.58:375][580]LogAIModule: Creating AISystem for world level1
+[2022.05.18-01.55.58:375][580]LogObjectTools: Deleting 1 worlds: /Game/map/level1.level1
+[2022.05.18-01.55.58:375][580]LogObjectTools: Currently 1 active worlds: /Game/map/workingmap.workingmap
+[2022.05.18-01.55.58:398][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.05.18-01.56.01:569][580]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.18-01.56.01:660][580]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/map/level1.level1
+[2022.05.18-01.56.01:975][580]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-01.56.01:975][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-01.56.02:098][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.05.18-01.56.02:123][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.05.18-01.56.02:145][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.18-01.56.06:339][829]LogLevelStreaming: Display: Failed to find streaming level package file: /Game/map/level1. This streaming level may not load or save properly.
+[2022.05.18-01.56.06:344][829]LogAIModule: Creating AISystem for world level
+[2022.05.18-01.56.06:346][829]LogAssetEditorSubsystem: Opening Asset editor for World /Game/level.level
+[2022.05.18-01.56.06:368][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.05.18-01.56.06:369][829]Cmd: MAP LOAD FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-01.56.06:369][829]LightingResults: New page: Lighting Build
+[2022.05.18-01.56.06:370][829]LoadErrors: New page: Loading map: level.umap
+[2022.05.18-01.56.06:370][829]LogWorld: UWorld::CleanupWorld for workingmap, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-01.56.06:370][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-01.56.06:371][829]MapCheck: New page: Map Check
+[2022.05.18-01.56.06:371][829]LightingResults: New page: Lighting Build
+[2022.05.18-01.56.06:395][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.05.18-01.56.06:397][829]LogStreaming: Error: Couldn't find file for package /Game/map/level1.
+[2022.05.18-01.56.06:397][829]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-01.56.06:421][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.05.18-01.56.06:431][829]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-01.56.06:431][829]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.063ms to complete.
+[2022.05.18-01.56.06:431][829]LogFileHelpers: Loading map 'level' took 0.062
+[2022.05.18-01.56.13:499][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.05.18-01.56.18:714][468]LogSlate: Window 'New Level' being destroyed
+[2022.05.18-01.56.41:242][468]LogSlate: Window 'Save Level As' being destroyed
+[2022.05.18-01.56.41:299][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.05.18-01.56.41:302][468]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/level13C6131C848BA6DC986EDA4BD0804AFDB.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/level1.umap'
+[2022.05.18-01.56.41:310][468]LogFileHelpers: Saving map 'level1' took 0.060
+[2022.05.18-01.56.41:352][468]AssetCheck: New page: Asset Save: level1
+[2022.05.18-01.56.41:352][468]LogContentValidation: Display: Validating World /Game/level1.level1
+[2022.05.18-01.56.45:445][712]LogAssetEditorSubsystem: Opening Asset editor for World /Game/level.level
+[2022.05.18-01.56.45:469][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.05.18-01.56.48:207][712]LogSlate: Window 'Save Content' being destroyed
+[2022.05.18-01.56.55:860][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.18-01.56.55:864][165]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/newworld5FCC9AA44B6CC7377B272EB3DCC7169C.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/newworld.umap'
+[2022.05.18-01.56.55:875][165]LogFileHelpers: Saving map 'newworld' took 0.037
+[2022.05.18-01.56.56:008][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.18-01.56.56:037][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.05.18-01.56.56:058][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-01.56.56:081][165]AssetCheck: New page: Asset Save: newworld
+[2022.05.18-01.56.56:082][165]LogContentValidation: Display: Validating World /Game/newworld.newworld
+[2022.05.18-01.56.59:595][317]LogAssetEditorSubsystem: Opening Asset editor for World /Game/level1.level1
+[2022.05.18-01.56.59:617][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.05.18-01.56.59:618][317]Cmd: MAP LOAD FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-01.56.59:618][317]LightingResults: New page: Lighting Build
+[2022.05.18-01.56.59:619][317]LoadErrors: New page: Loading map: level1.umap
+[2022.05.18-01.56.59:619][317]LogWorld: UWorld::CleanupWorld for newworld, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-01.56.59:619][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-01.56.59:619][317]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-01.56.59:619][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-01.56.59:620][317]MapCheck: New page: Map Check
+[2022.05.18-01.56.59:620][317]LightingResults: New page: Lighting Build
+[2022.05.18-01.56.59:644][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.05.18-01.56.59:644][317]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-01.56.59:644][317]LogAIModule: Creating AISystem for world level1
+[2022.05.18-01.56.59:669][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.05.18-01.56.59:678][317]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-01.56.59:678][317]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2022.05.18-01.56.59:678][317]LogFileHelpers: Loading map 'level1' took 0.061
+[2022.05.18-01.56.59:717][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.18-01.57.01:767][438]LogAIModule: Creating AISystem for world newworld
+[2022.05.18-01.57.01:769][438]LogAssetEditorSubsystem: Opening Asset editor for World /Game/newworld.newworld
+[2022.05.18-01.57.01:791][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.05.18-01.57.01:793][438]Cmd: MAP LOAD FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/newworld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-01.57.01:793][438]LightingResults: New page: Lighting Build
+[2022.05.18-01.57.01:793][438]LoadErrors: New page: Loading map: newworld.umap
+[2022.05.18-01.57.01:794][438]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-01.57.01:794][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-01.57.01:794][438]MapCheck: New page: Map Check
+[2022.05.18-01.57.01:794][438]LightingResults: New page: Lighting Build
+[2022.05.18-01.57.01:817][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.05.18-01.57.01:819][438]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/level1) is flushing async loading
+[2022.05.18-01.57.01:819][438]LogStreaming: Display: Flushing async loaders.
+[2022.05.18-01.57.01:821][438]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-01.57.01:845][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.05.18-01.57.01:855][438]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-01.57.01:855][438]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2022.05.18-01.57.01:855][438]LogFileHelpers: Loading map 'newworld' took 0.064
+[2022.05.18-01.57.52:806][975]LogEditorViewport: Clicking on Actor (LMB): SunSky_C (SunSky)
+[2022.05.18-01.57.53:427][ 11]LogEditorViewport: Clicking on Actor (LMB): SunSky_C (SunSky)
+[2022.05.18-01.57.53:999][ 45]LogEditorViewport: Clicking on Actor (LMB): SunSky_C (SunSky)
+[2022.05.18-01.57.54:521][ 76]LogEditorViewport: Clicking on Actor (LMB): SunSky_C (SunSky)
+[2022.05.18-01.57.58:046][279]LogActorFactory: Actor Factory created Cube
+[2022.05.18-01.57.59:467][364]LogActorFactory: Actor Factory created Cube
+[2022.05.18-01.58.03:356][519]Cmd: TRANSACTION UNDO
+[2022.05.18-01.58.03:356][519]LogEditorTransaction: Undo Create Actors
+[2022.05.18-01.58.04:438][567]LogActorFactory: Actor Factory created Cube
+[2022.05.18-01.58.08:391][804]LogActorFactory: Actor Factory created Cube
+[2022.05.18-01.58.33:750][233]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.18-01.59.04:563][855]LogEditorViewport: Clicking Background
+[2022.05.18-01.59.08:437][ 87]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.18-01.59.56:809][647]LogSlate: Window 'New Level' being destroyed
+[2022.05.18-02.00.02:201][647]LogSlate: Window 'Save Level As' being destroyed
+[2022.05.18-02.00.02:269][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.05.18-02.00.02:272][647]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/level24ED42CAF4B0B81EE9B7F1FB80DF7BA39.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/level2.umap'
+[2022.05.18-02.00.02:279][647]LogFileHelpers: Saving map 'level2' took 0.069
+[2022.05.18-02.00.02:320][647]AssetCheck: New page: Asset Save: level2
+[2022.05.18-02.00.02:320][647]LogContentValidation: Display: Validating World /Game/level2.level2
+[2022.05.18-02.00.31:237][230]LogAssetEditorSubsystem: Opening Asset editor for World /Game/newworld.newworld
+[2022.05.18-02.00.31:259][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.18-02.00.32:541][230]LogSlate: Window 'Save Content' being destroyed
+[2022.05.18-02.00.32:584][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.18-02.00.32:589][230]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/newworld195D906E4EB2402B9E66F1BEB2725626.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/newworld.umap'
+[2022.05.18-02.00.32:599][230]LogFileHelpers: Saving map 'newworld' took 0.037
+[2022.05.18-02.00.32:600][230]Cmd: MAP LOAD FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/newworld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-02.00.32:600][230]LightingResults: New page: Lighting Build
+[2022.05.18-02.00.32:600][230]LoadErrors: New page: Loading map: newworld.umap
+[2022.05.18-02.00.32:601][230]LogWorld: UWorld::CleanupWorld for newworld, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.00.32:601][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.00.32:601][230]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.00.32:601][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.00.32:601][230]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.00.32:601][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.00.32:602][230]MapCheck: New page: Map Check
+[2022.05.18-02.00.32:602][230]LightingResults: New page: Lighting Build
+[2022.05.18-02.00.32:625][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.05.18-02.00.32:629][230]LogAIModule: Creating AISystem for world newworld
+[2022.05.18-02.00.32:632][230]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/level2) is flushing async loading
+[2022.05.18-02.00.32:632][230]LogStreaming: Display: Flushing async loaders.
+[2022.05.18-02.00.32:633][230]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/level1) is flushing async loading
+[2022.05.18-02.00.32:635][230]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-02.00.32:659][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.05.18-02.00.32:668][230]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-02.00.32:669][230]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2022.05.18-02.00.32:669][230]LogFileHelpers: Loading map 'newworld' took 0.070
+[2022.05.18-02.00.32:702][230]AssetCheck: New page: Asset Save: newworld
+[2022.05.18-02.00.32:702][230]LogContentValidation: Display: Validating World /Game/newworld.newworld
+[2022.05.18-02.00.32:728][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.18-02.00.46:693][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.05.18-02.00.46:698][ 64]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/newworld691AEE4F4AFDCA0750E25796051D4957.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/newworld.umap'
+[2022.05.18-02.00.46:718][ 64]AssetCheck: New page: Asset Save: newworld
+[2022.05.18-02.00.46:718][ 64]LogContentValidation: Display: Validating World /Game/newworld.newworld
+[2022.05.18-02.00.47:192][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-02.00.47:196][ 90]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/newworld20CB04D447C16FBC636561A024D5CF86.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/newworld.umap'
+[2022.05.18-02.00.47:215][ 90]AssetCheck: New page: Asset Save: newworld
+[2022.05.18-02.00.47:215][ 90]LogContentValidation: Display: Validating World /Game/newworld.newworld
+[2022.05.18-02.00.47:494][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.05.18-02.00.47:498][104]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/newworld24BEA1714AF02A19AE0FD18830E01E45.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/newworld.umap'
+[2022.05.18-02.00.47:516][104]AssetCheck: New page: Asset Save: newworld
+[2022.05.18-02.00.47:516][104]LogContentValidation: Display: Validating World /Game/newworld.newworld
+[2022.05.18-02.00.47:729][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.05.18-02.00.47:733][114]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/newworldB3E623EF494BAD647DF5789A290F1AD8.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/newworld.umap'
+[2022.05.18-02.00.47:752][114]AssetCheck: New page: Asset Save: newworld
+[2022.05.18-02.00.47:752][114]LogContentValidation: Display: Validating World /Game/newworld.newworld
+[2022.05.18-02.00.47:910][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-02.00.47:914][121]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/newworld625F7C394710AA58469CF392826A6A0A.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/newworld.umap'
+[2022.05.18-02.00.47:933][121]AssetCheck: New page: Asset Save: newworld
+[2022.05.18-02.00.47:933][121]LogContentValidation: Display: Validating World /Game/newworld.newworld
+[2022.05.18-02.00.49:507][214]LogAssetEditorSubsystem: Opening Asset editor for World /Game/level2.level2
+[2022.05.18-02.00.49:528][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-02.00.49:530][214]Cmd: MAP LOAD FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-02.00.49:530][214]LightingResults: New page: Lighting Build
+[2022.05.18-02.00.49:530][214]LoadErrors: New page: Loading map: level2.umap
+[2022.05.18-02.00.49:531][214]LogWorld: UWorld::CleanupWorld for newworld, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.00.49:531][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.00.49:531][214]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.00.49:531][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.00.49:531][214]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.00.49:531][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.00.49:531][214]MapCheck: New page: Map Check
+[2022.05.18-02.00.49:531][214]LightingResults: New page: Lighting Build
+[2022.05.18-02.00.49:556][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.05.18-02.00.49:557][214]LogAIModule: Creating AISystem for world level2
+[2022.05.18-02.00.49:557][214]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-02.00.49:581][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.05.18-02.00.49:590][214]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-02.00.49:590][214]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.062ms to complete.
+[2022.05.18-02.00.49:590][214]LogFileHelpers: Loading map 'level2' took 0.061
+[2022.05.18-02.00.49:628][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.18-02.00.50:842][285]LogAIModule: Creating AISystem for world level1
+[2022.05.18-02.00.50:843][285]LogAssetEditorSubsystem: Opening Asset editor for World /Game/level1.level1
+[2022.05.18-02.00.50:865][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.05.18-02.00.50:866][285]Cmd: MAP LOAD FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-02.00.50:866][285]LightingResults: New page: Lighting Build
+[2022.05.18-02.00.50:867][285]LoadErrors: New page: Loading map: level1.umap
+[2022.05.18-02.00.50:867][285]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.00.50:867][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.00.50:867][285]MapCheck: New page: Map Check
+[2022.05.18-02.00.50:867][285]LightingResults: New page: Lighting Build
+[2022.05.18-02.00.50:891][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.05.18-02.00.50:892][285]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-02.00.50:916][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.05.18-02.00.50:925][285]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-02.00.50:925][285]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.061ms to complete.
+[2022.05.18-02.00.50:925][285]LogFileHelpers: Loading map 'level1' took 0.060
+[2022.05.18-02.00.52:062][351]LogAIModule: Creating AISystem for world newworld
+[2022.05.18-02.00.52:063][351]LogAssetEditorSubsystem: Opening Asset editor for World /Game/newworld.newworld
+[2022.05.18-02.00.52:087][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.05.18-02.00.52:088][351]Cmd: MAP LOAD FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/newworld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-02.00.52:088][351]LightingResults: New page: Lighting Build
+[2022.05.18-02.00.52:089][351]LoadErrors: New page: Loading map: newworld.umap
+[2022.05.18-02.00.52:089][351]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.00.52:089][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.00.52:089][351]MapCheck: New page: Map Check
+[2022.05.18-02.00.52:089][351]LightingResults: New page: Lighting Build
+[2022.05.18-02.00.52:113][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.05.18-02.00.52:115][351]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/level2) is flushing async loading
+[2022.05.18-02.00.52:115][351]LogStreaming: Display: Flushing async loaders.
+[2022.05.18-02.00.52:116][351]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/level1) is flushing async loading
+[2022.05.18-02.00.52:117][351]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-02.00.52:142][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.05.18-02.00.52:151][351]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-02.00.52:152][351]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2022.05.18-02.00.52:152][351]LogFileHelpers: Loading map 'newworld' took 0.064
+[2022.05.18-02.00.53:060][403]LogAssetEditorSubsystem: Opening Asset editor for World /Game/level2.level2
+[2022.05.18-02.00.53:082][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.18-02.00.53:083][403]Cmd: MAP LOAD FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-02.00.53:083][403]LightingResults: New page: Lighting Build
+[2022.05.18-02.00.53:083][403]LoadErrors: New page: Loading map: level2.umap
+[2022.05.18-02.00.53:084][403]LogWorld: UWorld::CleanupWorld for newworld, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.00.53:084][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.00.53:084][403]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.00.53:084][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.00.53:084][403]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.00.53:084][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.00.53:084][403]MapCheck: New page: Map Check
+[2022.05.18-02.00.53:084][403]LightingResults: New page: Lighting Build
+[2022.05.18-02.00.53:109][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.05.18-02.00.53:109][403]LogAIModule: Creating AISystem for world level2
+[2022.05.18-02.00.53:110][403]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-02.00.53:134][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.05.18-02.00.53:143][403]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-02.00.53:143][403]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.062ms to complete.
+[2022.05.18-02.00.53:143][403]LogFileHelpers: Loading map 'level2' took 0.061
+[2022.05.18-02.00.53:181][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-02.00.54:028][452]LogAIModule: Creating AISystem for world level1
+[2022.05.18-02.00.54:029][452]LogAssetEditorSubsystem: Opening Asset editor for World /Game/level1.level1
+[2022.05.18-02.00.54:052][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.05.18-02.00.54:053][452]Cmd: MAP LOAD FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-02.00.54:053][452]LightingResults: New page: Lighting Build
+[2022.05.18-02.00.54:053][452]LoadErrors: New page: Loading map: level1.umap
+[2022.05.18-02.00.54:054][452]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.00.54:054][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.00.54:054][452]MapCheck: New page: Map Check
+[2022.05.18-02.00.54:054][452]LightingResults: New page: Lighting Build
+[2022.05.18-02.00.54:077][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.05.18-02.00.54:078][452]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-02.00.54:103][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.05.18-02.00.54:112][452]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-02.00.54:112][452]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2022.05.18-02.00.54:112][452]LogFileHelpers: Loading map 'level1' took 0.060
+[2022.05.18-02.00.57:201][520]LogAIModule: Creating AISystem for world newworld
+[2022.05.18-02.00.57:202][520]LogAssetEditorSubsystem: Opening Asset editor for World /Game/newworld.newworld
+[2022.05.18-02.00.57:226][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.05.18-02.00.57:227][520]Cmd: MAP LOAD FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/newworld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-02.00.57:227][520]LightingResults: New page: Lighting Build
+[2022.05.18-02.00.57:227][520]LoadErrors: New page: Loading map: newworld.umap
+[2022.05.18-02.00.57:228][520]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.00.57:228][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.00.57:228][520]MapCheck: New page: Map Check
+[2022.05.18-02.00.57:228][520]LightingResults: New page: Lighting Build
+[2022.05.18-02.00.57:251][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.05.18-02.00.57:253][520]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/level1) is flushing async loading
+[2022.05.18-02.00.57:253][520]LogStreaming: Display: Flushing async loaders.
+[2022.05.18-02.00.57:254][520]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/level2) is flushing async loading
+[2022.05.18-02.00.57:256][520]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-02.00.57:281][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.05.18-02.00.57:291][520]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-02.00.57:291][520]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2022.05.18-02.00.57:291][520]LogFileHelpers: Loading map 'newworld' took 0.065
+[2022.05.18-02.01.17:045][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.05.18-02.01.17:751][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.05.18-02.01.18:221][908]LogEditorViewport: Clicking Background
+[2022.05.18-02.01.21:038][ 77]LogEditorViewport: Clicking Background
+[2022.05.18-02.01.50:408][219]LogObjectTools: Deleting 1 worlds: /Game/level1.level1
+[2022.05.18-02.01.50:408][219]LogObjectTools: Currently 5 active worlds: /Game/newworld.newworld, /Game/level1.level1, /Game/level2.level2, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2022.05.18-02.01.51:813][219]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.05.18-02.01.52:795][272]LogObjectTools: Deleting 1 worlds: /Game/newworld.newworld
+[2022.05.18-02.01.52:795][272]LogObjectTools: Currently 5 active worlds: /Game/newworld.newworld, /Game/level1.level1, /Game/level2.level2, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2022.05.18-02.01.54:944][272]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.05.18-02.01.56:665][367]LogAIModule: Creating AISystem for world workingmap
+[2022.05.18-02.01.56:667][367]LogAssetEditorSubsystem: Opening Asset editor for World /Game/map/workingmap.workingmap
+[2022.05.18-02.01.56:690][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.05.18-02.01.59:101][367]LogSlate: Window 'Save Content' being destroyed
+[2022.05.18-02.01.59:139][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.05.18-02.01.59:143][367]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/newworld479D9DB347FB054BB68C02B5E49BCD80.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/newworld.umap'
+[2022.05.18-02.01.59:154][367]LogFileHelpers: Saving map 'newworld' took 0.039
+[2022.05.18-02.01.59:155][367]Cmd: MAP LOAD FILE="D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.18-02.01.59:155][367]LightingResults: New page: Lighting Build
+[2022.05.18-02.01.59:156][367]LoadErrors: New page: Loading map: workingmap.umap
+[2022.05.18-02.01.59:156][367]LogWorld: UWorld::CleanupWorld for newworld, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.01.59:156][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.01.59:156][367]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.01.59:156][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.01.59:156][367]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.01.59:156][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.01.59:157][367]MapCheck: New page: Map Check
+[2022.05.18-02.01.59:157][367]LightingResults: New page: Lighting Build
+[2022.05.18-02.01.59:180][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.05.18-02.01.59:182][367]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.18-02.01.59:207][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.05.18-02.01.59:216][367]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.18-02.01.59:216][367]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.061ms to complete.
+[2022.05.18-02.01.59:216][367]LogFileHelpers: Loading map 'workingmap' took 0.062
+[2022.05.18-02.01.59:260][367]AssetCheck: New page: Asset Save: newworld
+[2022.05.18-02.01.59:260][367]LogContentValidation: Display: Validating World /Game/newworld.newworld
+[2022.05.18-02.01.59:263][367]LogAIModule: Creating AISystem for world newworld
+[2022.05.18-02.01.59:291][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.05.18-02.02.04:656][682]LogObjectTools: Deleting 1 worlds: /Game/newworld.newworld
+[2022.05.18-02.02.04:656][682]LogObjectTools: Currently 3 active worlds: /Game/map/workingmap.workingmap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2022.05.18-02.02.04:678][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.05.18-02.02.05:804][682]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.18-02.02.05:830][682]LogWorld: UWorld::CleanupWorld for newworld, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.02.05:830][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.02.06:003][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.05.18-02.02.06:031][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.18-02.02.06:053][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.18-02.02.07:227][746]LogAIModule: Creating AISystem for world level2
+[2022.05.18-02.02.07:227][746]LogObjectTools: Deleting 1 worlds: /Game/level2.level2
+[2022.05.18-02.02.07:227][746]LogObjectTools: Currently 3 active worlds: /Game/map/workingmap.workingmap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2022.05.18-02.02.07:249][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-02.02.08:306][746]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.18-02.02.08:334][746]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.02.08:334][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.02.08:421][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.05.18-02.02.08:448][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-02.02.08:470][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.18-02.02.09:510][803]LogAIModule: Creating AISystem for world level1
+[2022.05.18-02.02.09:511][803]LogObjectTools: Deleting 1 worlds: /Game/level1.level1
+[2022.05.18-02.02.09:511][803]LogObjectTools: Currently 3 active worlds: /Game/map/workingmap.workingmap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2022.05.18-02.02.09:533][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.18-02.02.10:699][803]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.18-02.02.10:801][803]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.02.10:801][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-02.02.10:890][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.18-02.02.10:919][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.18-02.02.10:940][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.18-02.02.12:546][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.18-02.02.12:555][888]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmapEA949A3A461F62B42D3901A675A515BF.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap.umap'
+[2022.05.18-02.02.12:574][888]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap_BuiltData9C6E95E242323BA36730A0868D67E3C5.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap_BuiltData.uasset'
+[2022.05.18-02.02.12:588][888]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-02.02.12:588][888]LogContentValidation: Display: Validating World /Game/map/workingmap.workingmap
+[2022.05.18-02.02.12:588][888]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map/workingmap_BuiltData.workingmap_BuiltData
+[2022.05.18-02.02.12:778][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.05.18-02.02.12:787][897]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap3888CFAC43D18553C6C76A8B08AC20BE.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap.umap'
+[2022.05.18-02.02.12:804][897]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap_BuiltDataD08EBFF542D24A840F77C8B62A4795B0.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap_BuiltData.uasset'
+[2022.05.18-02.02.12:817][897]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-02.02.12:817][897]LogContentValidation: Display: Validating World /Game/map/workingmap.workingmap
+[2022.05.18-02.02.12:817][897]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map/workingmap_BuiltData.workingmap_BuiltData
+[2022.05.18-02.02.13:313][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.18-02.02.13:321][925]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmapA39A504F4DA7E955DC92E2ADCD2F3F3D.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap.umap'
+[2022.05.18-02.02.13:338][925]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap_BuiltData1A9D72664D05EC35E390238161802939.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap_BuiltData.uasset'
+[2022.05.18-02.02.13:351][925]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-02.02.13:351][925]LogContentValidation: Display: Validating World /Game/map/workingmap.workingmap
+[2022.05.18-02.02.13:351][925]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map/workingmap_BuiltData.workingmap_BuiltData
+[2022.05.18-02.02.13:512][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-02.02.13:520][933]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmapCD25C2D84DF268D9CEEFDCB682A5461C.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap.umap'
+[2022.05.18-02.02.13:537][933]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap_BuiltDataA3B74B9E46E5618CDBC5B0B333B5FBC4.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap_BuiltData.uasset'
+[2022.05.18-02.02.13:552][933]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-02.02.13:552][933]LogContentValidation: Display: Validating World /Game/map/workingmap.workingmap
+[2022.05.18-02.02.13:552][933]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map/workingmap_BuiltData.workingmap_BuiltData
+[2022.05.18-02.02.13:696][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.18-02.02.13:704][939]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap2F3AA73B4341487CF88607983D3BF56E.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap.umap'
+[2022.05.18-02.02.13:722][939]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap_BuiltData4FD032BF4256ACAFFF73D2B03F73809E.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap_BuiltData.uasset'
+[2022.05.18-02.02.13:736][939]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-02.02.13:736][939]LogContentValidation: Display: Validating World /Game/map/workingmap.workingmap
+[2022.05.18-02.02.13:736][939]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map/workingmap_BuiltData.workingmap_BuiltData
+[2022.05.18-02.02.14:129][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-02.02.14:137][960]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmapFF7A552F48CF8ADC3CF797B095EC5CE1.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap.umap'
+[2022.05.18-02.02.14:155][960]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap_BuiltData55FB301341D111EEDCBEABBDF63C201A.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap_BuiltData.uasset'
+[2022.05.18-02.02.14:168][960]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-02.02.14:168][960]LogContentValidation: Display: Validating World /Game/map/workingmap.workingmap
+[2022.05.18-02.02.14:168][960]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map/workingmap_BuiltData.workingmap_BuiltData
+[2022.05.18-02.02.14:312][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-02.02.14:320][967]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap764BDA3C48EAEE656D152D9D1D424D7B.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap.umap'
+[2022.05.18-02.02.14:338][967]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap_BuiltData407D30B94C5B8A032C1E49AA26E00893.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap_BuiltData.uasset'
+[2022.05.18-02.02.14:352][967]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-02.02.14:352][967]LogContentValidation: Display: Validating World /Game/map/workingmap.workingmap
+[2022.05.18-02.02.14:352][967]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map/workingmap_BuiltData.workingmap_BuiltData
+[2022.05.18-02.02.14:480][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.18-02.02.14:488][973]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap9B123C6A4ADE4955FB2194AB9783C577.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap.umap'
+[2022.05.18-02.02.14:506][973]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap_BuiltData903A6C0441B461A17A5E39A1E9E373C9.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap_BuiltData.uasset'
+[2022.05.18-02.02.14:520][973]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-02.02.14:520][973]LogContentValidation: Display: Validating World /Game/map/workingmap.workingmap
+[2022.05.18-02.02.14:520][973]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map/workingmap_BuiltData.workingmap_BuiltData
+[2022.05.18-02.02.14:645][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-02.02.14:653][979]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap3658446F4E28696C28395D93B8AA2108.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap.umap'
+[2022.05.18-02.02.14:670][979]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap_BuiltDataA94FC653487F363378EC7C8A94099238.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap_BuiltData.uasset'
+[2022.05.18-02.02.14:684][979]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-02.02.14:684][979]LogContentValidation: Display: Validating World /Game/map/workingmap.workingmap
+[2022.05.18-02.02.14:684][979]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map/workingmap_BuiltData.workingmap_BuiltData
+[2022.05.18-02.02.15:647][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.18-02.02.15:655][ 35]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap0778C51A42B77DBCC631E5A3856896C5.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap.umap'
+[2022.05.18-02.02.15:672][ 35]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap_BuiltDataDDCFA03D4224ED213C96FC81EEA2F9DE.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap_BuiltData.uasset'
+[2022.05.18-02.02.15:685][ 35]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-02.02.15:685][ 35]LogContentValidation: Display: Validating World /Game/map/workingmap.workingmap
+[2022.05.18-02.02.15:685][ 35]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map/workingmap_BuiltData.workingmap_BuiltData
+[2022.05.18-02.02.15:798][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.05.18-02.02.15:806][ 40]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmapCE71DCE24550F29D9FD5A2BFE5CF4FCF.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap.umap'
+[2022.05.18-02.02.15:823][ 40]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap_BuiltData27CF1438411DE19A6083E0BB7029E8F5.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap_BuiltData.uasset'
+[2022.05.18-02.02.15:836][ 40]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-02.02.15:836][ 40]LogContentValidation: Display: Validating World /Game/map/workingmap.workingmap
+[2022.05.18-02.02.15:836][ 40]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map/workingmap_BuiltData.workingmap_BuiltData
+[2022.05.18-02.02.16:047][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.18-02.02.16:055][ 51]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmapDCFB989746474FC4B94E659F466B2346.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap.umap'
+[2022.05.18-02.02.16:072][ 51]LogSavePackage: Moving 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Saved/workingmap_BuiltData11054E4D40303960DE2EA68D88D81F2C.tmp' to 'D:/Game_Design/goldsmiths class works/term2/game design/github/final_project_game_engine/finalproject/Content/map/workingmap_BuiltData.uasset'
+[2022.05.18-02.02.16:085][ 51]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-02.02.16:085][ 51]LogContentValidation: Display: Validating World /Game/map/workingmap.workingmap
+[2022.05.18-02.02.16:085][ 51]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map/workingmap_BuiltData.workingmap_BuiltData
+[2022.05.18-02.02.19:745][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.18-02.02.19:768][266]LogSlate: Window 'finalproject - Unreal Editor' being destroyed
+[2022.05.18-02.02.19:884][267]Cmd: QUIT_EDITOR
+[2022.05.18-02.02.19:884][267]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.18-02.02.19:891][267]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.18-02.02.19:891][267]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.05.18-02.02.19:897][267]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.05.18-02.02.19:907][267]LogExit: Preparing to exit.
+[2022.05.18-02.02.20:819][267]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-02.02.20:819][267]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-02.02.20:819][267]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-02.02.20:819][267]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-02.02.20:819][267]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-02.02.20:819][267]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-02.02.20:819][267]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-02.02.20:819][267]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.02.20:819][267]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-02.02.20:819][267]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-02.02.20:819][267]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-02.02.20:819][267]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-02.02.20:819][267]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-02.02.20:819][267]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-02.02.20:819][267]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-02.02.20:819][267]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-02.02.20:820][267]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.18-02.02.20:824][267]LogExit: Transaction tracking system shut down
+[2022.05.18-02.02.20:830][267]LogExit: Editor shut down
+[2022.05.18-02.02.21:009][267]LogExit: Object subsystem successfully closed.
+[2022.05.18-02.02.21:055][267]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.18-02.02.21:073][267]LogModuleManager: Shutting down and abandoning module NewLevelDialog (704)
+[2022.05.18-02.02.21:073][267]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (700)
+[2022.05.18-02.02.21:073][267]LogModuleManager: Shutting down and abandoning module SceneOutliner (698)
+[2022.05.18-02.02.21:073][267]LogModuleManager: Shutting down and abandoning module AddContentDialog (696)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module WidgetCarousel (695)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module EditorWidgets (692)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (688)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module StatsViewer (686)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (684)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module FoliageEdit (682)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module LandscapeEditor (680)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module MeshPaintMode (678)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (676)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module ActorPickerMode (674)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module GeometryMode (672)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module TextureAlignMode (670)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module BspMode (668)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (666)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (664)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module AutomationWorker (662)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module SunPosition (660)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2022.05.18-02.02.21:075][267]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2022.05.18-02.02.21:076][267]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2022.05.18-02.02.21:934][267]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2022.05.18-02.02.21:935][267]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2022.05.18-02.02.21:936][267]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2022.05.18-02.02.21:936][267]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2022.05.18-02.02.21:936][267]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2022.05.18-02.02.21:968][267]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2022.05.18-02.02.21:968][267]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2022.05.18-02.02.21:968][267]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2022.05.18-02.02.21:968][267]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2022.05.18-02.02.21:968][267]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2022.05.18-02.02.21:968][267]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2022.05.18-02.02.21:968][267]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2022.05.18-02.02.21:968][267]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2022.05.18-02.02.21:968][267]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2022.05.18-02.02.21:968][267]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2022.05.18-02.02.21:968][267]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2022.05.18-02.02.21:968][267]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2022.05.18-02.02.21:968][267]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2022.05.18-02.02.21:969][267]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2022.05.18-02.02.21:974][267]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2022.05.18-02.02.22:038][267]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2022.05.18-02.02.22:039][267]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2022.05.18-02.02.22:140][267]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2022.05.18-02.02.22:240][267]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2022.05.18-02.02.22:240][267]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2022.05.18-02.02.22:240][267]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2022.05.18-02.02.22:241][267]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2022.05.18-02.02.22:241][267]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2022.05.18-02.02.22:241][267]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2022.05.18-02.02.22:242][267]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2022.05.18-02.02.22:242][267]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2022.05.18-02.02.22:242][267]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2022.05.18-02.02.22:242][267]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2022.05.18-02.02.22:242][267]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2022.05.18-02.02.22:243][267]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module Core (206)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2022.05.18-02.02.22:244][267]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2022.05.18-02.02.22:245][267]LogDerivedDataCache: Shutdown
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2022.05.18-02.02.22:245][267]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2022.05.18-02.02.22:246][267]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2022.05.18-02.02.22:246][267]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2022.05.18-02.02.22:246][267]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2022.05.18-02.02.22:246][267]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2022.05.18-02.02.22:246][267]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2022.05.18-02.02.22:246][267]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2022.05.18-02.02.22:246][267]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2022.05.18-02.02.22:246][267]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2022.05.18-02.02.22:246][267]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2022.05.18-02.02.22:247][267]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2022.05.18-02.02.22:251][267]LogHMD: Freeing OpenVRDLLHandle.
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2022.05.18-02.02.22:251][267]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2022.05.18-02.02.22:253][267]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2022.05.18-02.02.22:253][267]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2022.05.18-02.02.22:281][267]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2022.05.18-02.02.22:281][267]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.05.18-02.02.22:281][267]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBC8953D0-4C4C-782F-4145-C3BE876FDAAB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=6a46f1bb4197229eec903aace9c37d0d%7C7a3f4aa44d4c4e109c33873f128e6b12%7Ce80f26ed-8395-45a9-9e85-f755edad75f8&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.05.18-02.02.22:288][267]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2022.05.18-02.02.22:290][267]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2022.05.18-02.02.22:292][267]LogModuleManager: Shutting down and abandoning module Media (57)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.05.18-02.02.22:293][267]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.05.18-02.02.22:295][267]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.05.18-02.02.22:295][267]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.05.18-02.02.22:295][267]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.05.18-02.02.22:295][267]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.05.18-02.02.22:295][267]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.05.18-02.02.22:295][267]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.05.18-02.02.22:295][267]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.05.18-02.02.22:295][267]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.05.18-02.02.22:295][267]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.05.18-02.02.22:295][267]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.05.18-02.02.22:295][267]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.05.18-02.02.22:295][267]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.05.18-02.02.22:299][267]LogD3D11RHI: Shutdown
+[2022.05.18-02.02.22:299][267]LogD3D11RHI: CleanupD3DDevice
+[2022.05.18-02.02.22:322][267]LogExit: Exiting.
+[2022.05.18-02.02.22:333][267]Log file closed, 05/18/22 02:02:22
